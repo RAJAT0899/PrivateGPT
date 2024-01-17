@@ -1,0 +1,9 @@
+# pack-refs with: peeled fully-peeled sorted 
+cdbb62a7050d05156e2702bbfa67150fd10c8b32 refs/remotes/origin/autodelete-old-images
+3582764801c692f53143a2f895c87005f845a4b7 refs/remotes/origin/main
+99a870bcee09152fdfd9d70e67d6aa423567e3f9 refs/remotes/origin/more-prompt-format
+28e6cd3b4e9dcfbc161a746bb9463e5820200c62 refs/remotes/origin/primordial
+97d860a7c9d72f9a67058b87b82bdf8c88b16801 refs/tags/v0.0.1
+b8383e00a64a7da11e0d272bd4995c30f7c9e6d0 refs/tags/v0.0.2
+3d301d0c6f4c177ec3fba55867a07b4c67e19d97 refs/tags/v0.1.0
+e8ac51bba4b698c8a66dfd02bda5020f4a08f0cd refs/tags/v0.2.0
